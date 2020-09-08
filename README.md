@@ -14,4 +14,6 @@ Current work: We are working on developing a web application using Flask! In add
 
 Please check for regular updates as the repository can keep changing, especially the web application portion of the project.
 
+You can access the datasets here: https://www.kaggle.com/c/plant-seedlings-classification
+
 Happy Coding!
