@@ -12,6 +12,6 @@ The last layer of the CNN(dense layer) is fed into other models like SVM, XGBoos
 
 Current work: We are working on developing a web application using Flask! In addition, we will then deploy our application on Heroku.
 
-Please check for regular updates as the repository can keep changing, especially the web application portion of the project
+Please check for regular updates as the repository can keep changing, especially the web application portion of the project.
 
 Happy Coding!
