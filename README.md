@@ -8,7 +8,7 @@ This was our final Data Mining presentation at the University of Chicago!
 
 We are using OpenCV to crate image masks. We are tarining our models using CNN. 
 
-The last layer of the CNN(dense layer) is fed into other models like SVM, XGBoost to check how other models behave in classifiying the images!
+The last layer of the CNN(dense layer) is fed into other models like SVM and Random Forest to check how other models behave in classifiying the images!
 
 Current work: We are working on developing a web application using Flask! In addition, we will then deploy our application on Heroku.
 
