@@ -1,4 +1,4 @@
-# Plant-or-Weed-A-multi-label-image-classifier-to-distinguish-a-crop-image-from-a-weed-image
+# Plant or Weed: A multi label image classifier to distinguish a crop image from a weed image
 
 ![5e713b8a74460 image](https://user-images.githubusercontent.com/66754032/94639081-044bd180-02a1-11eb-9922-391bc4d1f25b.jpg)
 
