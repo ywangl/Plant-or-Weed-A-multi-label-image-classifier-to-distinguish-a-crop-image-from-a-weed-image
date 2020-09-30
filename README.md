@@ -8,9 +8,9 @@ The ability to do so effectively can mean better crop yields and better stewards
 
 This was our final Data Mining presentation at the University of Chicago!
 
-We are using OpenCV to crate image masks. We are tarining our models using CNN. 
+We are using OpenCV to create image masks. In addition, we are tarining our models using CNN 
 
-The last layer of the CNN(dense layer) is fed into other models like SVM and Random Forest to check how other models behave in classifiying the images!
+The last layer of the CNN(dense layer) is fed into other models like SVM and Random Forest to check how other models behave in classifiying the seedlings!
 
 Current work: We are working on developing a web application using Flask! In addition, we will then deploy our application on Heroku.
 
