@@ -6,9 +6,9 @@
 
 The ability to do so effectively can mean better crop yields and better stewardship of the environment.
 
-This was our final Data Mining presentation at the University of Chicago!
+This was our final Data Mining presentation at the University of Chicago!(Team: [Aakash](https://www.linkedin.com/in/aakash-pahuja16/), [Adrienne](https://www.linkedin.com/in/adrienneywang/), Murphy, [Nara](https://www.linkedin.com/in/narasimha-kamath-ardi-133169132/), [Rupa](https://www.linkedin.com/in/satarupa-ghosh-pmp-1413634/), [Xintian](https://www.linkedin.com/in/xintiansu/))
 
-We are using OpenCV to create image masks. In addition, we are tarining our models using CNN 
+We are using OpenCV to create image masks. In addition, we are tarining our models using CNNs 
 
 The last layer of the CNN(dense layer) is fed into other models like SVM and Random Forest to check how other models behave in classifiying the seedlings!
 
