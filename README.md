@@ -23,4 +23,6 @@ Please check for regular updates as the repository can keep changing, especially
 You can access the datasets here: https://www.kaggle.com/c/plant-seedlings-classification
 
 Happy Coding!
+
+
 Notice: CNN+SVM gave the highest accuracy score but it is overfitting, thus not selected. Validation performance is not ideal on google searched images. 
