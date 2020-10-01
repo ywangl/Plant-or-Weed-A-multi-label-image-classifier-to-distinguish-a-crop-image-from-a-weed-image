@@ -10,7 +10,7 @@ This was our final Data Mining presentation at the University of Chicago!(Team: 
 
 Followed by basic statistical summary of our dataset, we further explored our data after transformation into a 4750X16384 matrix using tSNE, Hierarchical Clustering, DBSCAN, and K-means clustering. Although some seedling categories had more images than others, we didn't balance our data using KDE to generate more images because by using the last layer of CNN, imbalanced data won't be problematic. (Check slide number 10 to see the stops of using KDE to generate images)
 
-We are using OpenCV to create image masks(just to show how to use OpenCV). In addition, we are tarining our models using CNNs. 
+We are using OpenCV to create image masks(just to show how to use OpenCV, masting can be done on the pulling layer). In addition, we are tarining our models using CNNs. 
 
 The last layer of the CNN(dense layer) is fed into other models like SVM and Random Forest to check how other models behave in classifiying the seedlings!
 
@@ -26,3 +26,11 @@ Happy Coding!
 
 
 Notice: CNN+SVM gave the highest accuracy score but it is overfitting, thus not selected. Validation performance is not ideal on google searched images. 
+
+Steps to solve overfitting:
+
+1. "Dropping" function and "Randomized Search" can be used 
+
+2. Larger dataset
+
+3. Apply transformed learning: look for pre-trained model, tweak parameters 
